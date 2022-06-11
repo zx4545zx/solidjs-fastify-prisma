@@ -6,6 +6,7 @@ function App() {
     <div class={styles.App}>
       <h1>Hello World!</h1>
       <h2>My name is F.</h2>
+      <h2>My name is F.</h2>
     </div>
   );
 }
